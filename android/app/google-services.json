@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "453121158438",
+    "firebase_url": "https://supermarvel-8b9b4.firebaseio.com",
+    "project_id": "supermarvel-8b9b4",
+    "storage_bucket": "supermarvel-8b9b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453121158438:android:224f33aacc3bfedc23e5e7",
+        "android_client_info": {
+          "package_name": "com.vostore.superlogicamavel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453121158438-t7gk4fk1hhcf9k5goi1a8mp2ij7od4f7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vostore.superlogicamavel",
+            "certificate_hash": "7ac5f4cf4875c42ba5404958d570ba6c9f533583"
+          }
+        },
+        {
+          "client_id": "453121158438-irjbtipdh2e566mhrej8enjkvj4qe7av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEaW3U0MD8IUwIA7tgifsE-H_T_YXKhHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453121158438-irjbtipdh2e566mhrej8enjkvj4qe7av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
